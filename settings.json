@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "houndshark.aternos.host",
+    "ip": "MalinKundang_109.aternos.me",
     "port": 39550,
     "version": "",
     "try-creative": false
@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": 
+      "messages": [ "I'm a regular player", "Subscribe to Slobos!", "I like to play Minecraft!" ]
     },
     "chat-log": true,
     "auto-reconnect": true,
