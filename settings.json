@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MalinKundang_109.aternos.me",
+    "ip": "houndshark.aternos.host",
     "port": 39550,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
